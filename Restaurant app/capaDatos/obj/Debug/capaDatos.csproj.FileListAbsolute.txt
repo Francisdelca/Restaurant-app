@@ -1,0 +1,6 @@
+C:\Users\Jhossue\source\repos\Restaurant app\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Jhossue\source\repos\Restaurant app\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Jhossue\source\repos\Restaurant app\capaDatos\obj\Debug\capaDatos.csprojAssemblyReference.cache
+C:\Users\Jhossue\source\repos\Restaurant app\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jhossue\source\repos\Restaurant app\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Jhossue\source\repos\Restaurant app\capaDatos\obj\Debug\capaDatos.pdb
