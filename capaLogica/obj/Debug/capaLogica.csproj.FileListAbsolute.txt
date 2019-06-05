@@ -1,0 +1,16 @@
+C:\Users\Jhossue\source\repos\Restaurant app\capaLogica\bin\Debug\capaLogica.dll
+C:\Users\Jhossue\source\repos\Restaurant app\capaLogica\bin\Debug\capaLogica.pdb
+C:\Users\Jhossue\source\repos\Restaurant app\capaLogica\bin\Debug\capaDatos.dll
+C:\Users\Jhossue\source\repos\Restaurant app\capaLogica\bin\Debug\capaDatos.pdb
+C:\Users\Jhossue\source\repos\Restaurant app\capaLogica\obj\Debug\capaLogica.csprojAssemblyReference.cache
+C:\Users\Jhossue\source\repos\Restaurant app\capaLogica\obj\Debug\capaLogica.csproj.CoreCompileInputs.cache
+C:\Users\Jhossue\source\repos\Restaurant app\capaLogica\obj\Debug\capaLogica.csproj.CopyComplete
+C:\Users\Jhossue\source\repos\Restaurant app\capaLogica\obj\Debug\capaLogica.dll
+C:\Users\Jhossue\source\repos\Restaurant app\capaLogica\obj\Debug\capaLogica.pdb
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaLogica\bin\Debug\capaLogica.dll
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaLogica\bin\Debug\capaLogica.pdb
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaLogica\bin\Debug\capaDatos.dll
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaLogica\bin\Debug\capaDatos.pdb
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaLogica\obj\Debug\capaLogica.csprojResolveAssemblyReference.cache
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaLogica\obj\Debug\capaLogica.dll
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaLogica\obj\Debug\capaLogica.pdb

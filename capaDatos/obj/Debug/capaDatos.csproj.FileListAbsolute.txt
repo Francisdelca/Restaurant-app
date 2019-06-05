@@ -1,0 +1,11 @@
+C:\Users\Jhossue\source\repos\Restaurant app\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\Jhossue\source\repos\Restaurant app\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\Jhossue\source\repos\Restaurant app\capaDatos\obj\Debug\capaDatos.csprojAssemblyReference.cache
+C:\Users\Jhossue\source\repos\Restaurant app\capaDatos\obj\Debug\capaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Jhossue\source\repos\Restaurant app\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\Jhossue\source\repos\Restaurant app\capaDatos\obj\Debug\capaDatos.pdb
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaDatos\bin\Debug\capaDatos.dll
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaDatos\bin\Debug\capaDatos.pdb
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaDatos\obj\Debug\capaDatos.csprojResolveAssemblyReference.cache
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaDatos\obj\Debug\capaDatos.dll
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaDatos\obj\Debug\capaDatos.pdb

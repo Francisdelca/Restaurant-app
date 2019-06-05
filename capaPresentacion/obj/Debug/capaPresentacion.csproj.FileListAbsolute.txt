@@ -1,0 +1,28 @@
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\bin\Debug\capaLogica.dll
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\bin\Debug\capaLogica.pdb
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.csprojAssemblyReference.cache
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.cache
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.csproj.CoreCompileInputs.cache
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.csproj.CopyComplete
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.frmMesas.resources
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\bin\Debug\capaPresentacion.exe.config
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.exe
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.pdb
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\bin\Debug\capaPresentacion.exe
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\bin\Debug\capaPresentacion.pdb
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\bin\Debug\capaLogica.dll
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\bin\Debug\capaLogica.pdb
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.csprojResolveAssemblyReference.cache
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.frmMesas.resources
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.Properties.Resources.resources
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.csproj.GenerateResource.Cache
+C:\Users\Jhossue\source\repos\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.Menu.resources
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\obj\Debug\capaPresentacion.Menu.resources
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\bin\Debug\capaDatos.dll
+C:\Users\SENATI\Documents\Visual Studio 2013\Projects\Restaurant app\capaPresentacion\bin\Debug\capaDatos.pdb
